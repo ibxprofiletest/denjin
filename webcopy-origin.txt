@@ -1,0 +1,500 @@
+Uri: https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=972110&theme=light&period=daily&t=1751094648733
+File Name: C:\Downloaded Web Sites\www.dyad.sh\widgets\embed-image\v1\top-post-badge.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dyad.sh/
+File Name: C:\Downloaded Web Sites\www.dyad.sh\index.htm
+Content Type: text/html
+
+Uri: https://www.dyad.sh/blog
+File Name: C:\Downloaded Web Sites\www.dyad.sh\blog.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/blog/free-lovable-alternative
+File Name: C:\Downloaded Web Sites\www.dyad.sh\blog\free-lovable-alternative.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/blog/open-source-ai-app-builder
+File Name: C:\Downloaded Web Sites\www.dyad.sh\blog\open-source-ai-app-builder.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/connect-supabase-dark.svg
+File Name: C:\Downloaded Web Sites\www.dyad.sh\connect-supabase-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dyad.sh/context-window.png
+File Name: C:\Downloaded Web Sites\www.dyad.sh\context-window.png
+Content Type: image/png
+
+Uri: https://www.dyad.sh/docs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/comparison/bolt-diy
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\comparison\bolt-diy.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/comparison/bolt-new
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\comparison\bolt-new.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/comparison/lovable
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\comparison\lovable.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/comparison/v0
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\comparison\v0.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/faq
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\faq.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/getting-started/publishing-your-app
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\getting-started\publishing-your-app.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/getting-started/quickstart
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\getting-started\quickstart.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/guides/ai-models
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\guides\ai-models.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/guides/ai-models/custom-models
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\guides\ai-models\custom-models.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/guides/ai-models/local-models
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\guides\ai-models\local-models.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/guides/ai-models/optimizing-model-usage
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\guides\ai-models\optimizing-model-usage.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/guides/ai-models/pro-modes
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\guides\ai-models\pro-modes.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/guides/ai-rules
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\guides\ai-rules.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/guides/chatting
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\guides\chatting.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/guides/debugging
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\guides\debugging.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/guides/importing
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\guides\importing.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/guides/large-apps
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\guides\large-apps.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/guides/migrate-restore
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\guides\migrate-restore.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/guides/mobile-app
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\guides\mobile-app.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/guides/previewing
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\guides\previewing.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/guides/versioning
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\guides\versioning.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/help
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\help.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/help/nodejs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\help\nodejs.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/integrations/github
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\integrations\github.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/integrations/supabase
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\integrations\supabase.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/policies/abuse
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\policies\abuse.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/policies/cancellation
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\policies\cancellation.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/policies/privacy-policy
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\policies\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/policies/refund
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\policies\refund.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/policies/terms
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\policies\terms.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/pro/maximize-ai-credits
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\pro\maximize-ai-credits.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/pro/overview
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\pro\overview.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.1.7
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.1.7.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.10.0
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.10.0.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.11.0
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.11.0.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.11.1
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.11.1.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.12.0
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.12.0.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.12.0-beta.2
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.12.0-beta.2.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.13.0
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.13.0.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.13.0-beta.1
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.13.0-beta.1.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.13.0-beta.2
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.13.0-beta.2.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.14.0
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.14.0.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.14.0-beta.1
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.14.0-beta.1.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.15.0
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.15.0.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.15.0-beta.1
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.15.0-beta.1.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.15.0-beta.2
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.15.0-beta.2.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.16.0-beta.1
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.16.0-beta.1.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.2.0
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.2.0.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.3.0
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.3.0.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.4.0
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.4.0.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.5.0
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.5.0.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.6.0
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.6.0.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.7.0
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.7.0.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.7.5
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.7.5.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.8.0
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.8.0.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/releases/0.9.0
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\releases\0.9.0.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/roadmap
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\roadmap.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/templates
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\templates.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/templates/add-template
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\templates\add-template.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/templates/portal
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\templates\portal.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/docs/upgrades/select-component
+File Name: C:\Downloaded Web Sites\www.dyad.sh\docs\upgrades\select-component.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/download
+File Name: C:\Downloaded Web Sites\www.dyad.sh\download.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/favicon.ico
+File Name: C:\Downloaded Web Sites\www.dyad.sh\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.dyad.sh/plans
+File Name: C:\Downloaded Web Sites\www.dyad.sh\plans.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/pro
+File Name: C:\Downloaded Web Sites\www.dyad.sh\pro.html
+Content Type: text/html
+
+Uri: https://www.dyad.sh/_next/image?url=%2Fheadshot.jpeg&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\headshot.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dyad.sh/_next/image?url=%2Fheadshot.jpeg&w=96&q=75
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\headshot-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dyad.sh/_next/image?url=%2Flogo-icon.png&w=48&q=75
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\logo-icon-1.png
+Content Type: image/png
+
+Uri: https://www.dyad.sh/_next/image?url=%2Flogo-icon.png&w=96&q=75
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\logo-icon.png
+Content Type: image/png
+
+Uri: https://www.dyad.sh/_next/image?url=%2Flogo.png&w=32&q=75
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\logo-1.png
+Content Type: image/png
+
+Uri: https://www.dyad.sh/_next/image?url=%2Flogo.png&w=48&q=75
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\logo.png
+Content Type: image/png
+
+Uri: https://www.dyad.sh/_next/image?url=%2FReddit_Logo.webp&w=32&q=75
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\Reddit_Logo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dyad.sh/_next/image?url=%2FReddit_Logo.webp&w=48&q=75
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\Reddit_Logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dyad.sh/_next/image?url=%2FReddit_Logo.webp&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\Reddit_Logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dyad.sh/_next/static/chunks/1158-b0acf2181fe95b7a.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\1158-b0acf2181fe95b7a.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/1247-1badc34443919b53.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\1247-1badc34443919b53.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/1680-1e094e3221e61116.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\1680-1e094e3221e61116.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/2409-65b7ce4eb585096a.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\2409-65b7ce4eb585096a.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/2828-fa23ee4967eec2ff.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\2828-fa23ee4967eec2ff.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/3970-4c1325716b88e511.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\3970-4c1325716b88e511.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/4242-793f6b5da5c09c2b.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\4242-793f6b5da5c09c2b.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/4736-ae574690122b7a18.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\4736-ae574690122b7a18.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/6701-234c3795de8059ae.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\6701-234c3795de8059ae.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/7261-408d1c32ef7b4164.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\7261-408d1c32ef7b4164.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/7478-b0070766402288c7.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\7478-b0070766402288c7.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/7734-7d874af09b931ca8.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\7734-7d874af09b931ca8.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/8315-b423021d46a8d238.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\8315-b423021d46a8d238.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/8610-31473de199fefd9a.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\8610-31473de199fefd9a.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/87c73c54-4fe95f1408c640fa.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\87c73c54-4fe95f1408c640fa.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/9815-bd17143c37254c9d.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\9815-bd17143c37254c9d.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/983-93a4174d76b8d384.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\983-93a4174d76b8d384.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/9963-8ecdd6af92f8ad58.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\9963-8ecdd6af92f8ad58.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/app/(home)/download/page-4825b62ccf8a7959.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\app\(home)\download\page-4825b62ccf8a7959.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/app/(home)/layout-9fe84d4bd80cda7a.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\app\(home)\layout-9fe84d4bd80cda7a.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/app/(home)/page-4be8fe7689a86c82.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\app\(home)\page-4be8fe7689a86c82.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/app/(home)/plans/page-412109d52a29126f.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\app\(home)\plans\page-412109d52a29126f.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/app/(home)/pro/page-ef30fd5d7c511a5a.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\app\(home)\pro\page-ef30fd5d7c511a5a.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/app/blog/[[...slug]]/page-4e028722c090d801.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\app\blog\[[...slug]]\page-4e028722c090d801.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/app/blog/layout-41b146c7e4736a43.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\app\blog\layout-41b146c7e4736a43.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/app/docs/[[...slug]]/page-7e6b7e3074872eca.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\app\docs\[[...slug]]\page-7e6b7e3074872eca.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/app/docs/layout-e3147bc786cb2d9d.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\app\docs\layout-e3147bc786cb2d9d.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/app/layout-f514c3459c075b9c.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\app\layout-f514c3459c075b9c.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/main-app-38defde4894b6e25.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\main-app-38defde4894b6e25.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/chunks/webpack-74562257886d31b8.js?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\chunks\webpack-74562257886d31b8.js
+Content Type: application/javascript
+
+Uri: https://www.dyad.sh/_next/static/css/791b0dec114a4920.css?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\css\791b0dec114a4920.css
+Content Type: text/css
+
+Uri: https://www.dyad.sh/_next/static/css/941584343f16feb7.css?dpl=dpl_66faw2kyb2kDs8vLV4R5oJ1igAEs
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\css\941584343f16feb7.css
+Content Type: text/css
+
+Uri: https://www.dyad.sh/_next/static/media/26a46d62cd723877-s.woff2
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\media\26a46d62cd723877-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.dyad.sh/_next/static/media/55c55f0601d81cf3-s.woff2
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\media\55c55f0601d81cf3-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.dyad.sh/_next/static/media/569ce4b8f30dc480-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\media\569ce4b8f30dc480-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.dyad.sh/_next/static/media/581909926a08bbc8-s.woff2
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\media\581909926a08bbc8-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.dyad.sh/_next/static/media/8d697b304b401681-s.woff2
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\media\8d697b304b401681-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.dyad.sh/_next/static/media/8e9860b6e62d6359-s.woff2
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\media\8e9860b6e62d6359-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.dyad.sh/_next/static/media/97e0cb1ae144a2a9-s.woff2
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\media\97e0cb1ae144a2a9-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.dyad.sh/_next/static/media/ba015fad6dcf6784-s.woff2
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\media\ba015fad6dcf6784-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.dyad.sh/_next/static/media/df0a9ae256c0569c-s.woff2
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\media\df0a9ae256c0569c-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.dyad.sh/_next/static/media/e4af272ccee01ff0-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.dyad.sh\_next\static\media\e4af272ccee01ff0-s.p.woff2
+Content Type: font/woff2
+
