@@ -10,5 +10,7 @@
       "destination": "https://github.com/ibxprofiletest/denjin/raw/main/downloads/v0.15.0/denjin-darwin-arm64-0.15.0.zip",
       "permanent": true
     }
-  ]
+  ],
+  "cleanUrls": true,
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
 }
