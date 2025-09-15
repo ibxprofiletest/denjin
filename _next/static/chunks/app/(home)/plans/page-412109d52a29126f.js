@@ -1,1 +1,757 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3894],{1828:e=>{e.exports={style:{fontFamily:"'Geist', 'Geist Fallback'",fontStyle:"normal"},className:"__className_5cfdac"}},2055:(e,t,r)=>{"use strict";r.d(t,{A:()=>a});let a=(0,r(8889).A)("users",[["path",{d:"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2",key:"1yyitq"}],["path",{d:"M16 3.128a4 4 0 0 1 0 7.744",key:"16gr8j"}],["path",{d:"M22 21v-2a4 4 0 0 0-3-3.87",key:"kshegd"}],["circle",{cx:"9",cy:"7",r:"4",key:"nufk8"}]])},2935:(e,t,r)=>{"use strict";Object.defineProperty(t,"__esModule",{value:!0}),!function(e,t){for(var r in t)Object.defineProperty(e,r,{enumerable:!0,get:t[r]})}(t,{callServer:function(){return a.callServer},createServerReference:function(){return n},findSourceMapURL:function(){return s.findSourceMapURL}});let a=r(5411),s=r(5176),n=r(496).createServerReference},2942:(e,t,r)=>{"use strict";var a=r(2418);r.o(a,"useParams")&&r.d(t,{useParams:function(){return a.useParams}}),r.o(a,"usePathname")&&r.d(t,{usePathname:function(){return a.usePathname}}),r.o(a,"useRouter")&&r.d(t,{useRouter:function(){return a.useRouter}}),r.o(a,"useSearchParams")&&r.d(t,{useSearchParams:function(){return a.useSearchParams}})},3185:(e,t,r)=>{"use strict";r.d(t,{A:()=>a});let a=(0,r(8889).A)("star",[["path",{d:"M11.525 2.295a.53.53 0 0 1 .95 0l2.31 4.679a2.123 2.123 0 0 0 1.595 1.16l5.166.756a.53.53 0 0 1 .294.904l-3.736 3.638a2.123 2.123 0 0 0-.611 1.878l.882 5.14a.53.53 0 0 1-.771.56l-4.618-2.428a2.122 2.122 0 0 0-1.973 0L6.396 21.01a.53.53 0 0 1-.77-.56l.881-5.139a2.122 2.122 0 0 0-.611-1.879L2.16 9.795a.53.53 0 0 1 .294-.906l5.165-.755a2.122 2.122 0 0 0 1.597-1.16z",key:"r04s7s"}]])},3385:(e,t,r)=>{"use strict";r.d(t,{A:()=>a});let a=(0,r(8889).A)("download",[["path",{d:"M12 15V3",key:"m9g1x1"}],["path",{d:"M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4",key:"ih7n3h"}],["path",{d:"m7 10 5 5 5-5",key:"brsn70"}]])},3643:(e,t,r)=>{"use strict";r.d(t,{A:()=>a});let a=(0,r(8889).A)("book-open",[["path",{d:"M12 7v14",key:"1akyts"}],["path",{d:"M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z",key:"ruj8y"}]])},3908:(e,t,r)=>{"use strict";r.d(t,{A:()=>a});let a=(0,r(8889).A)("message-square",[["path",{d:"M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z",key:"1lielz"}]])},5191:(e,t,r)=>{"use strict";r.d(t,{A:()=>a});let a=(0,r(8889).A)("circle-check-big",[["path",{d:"M21.801 10A10 10 0 1 1 17 3.335",key:"yps3ct"}],["path",{d:"m9 11 3 3L22 4",key:"1pflzl"}]])},5321:(e,t,r)=>{"use strict";r.d(t,{A:()=>a});let a=(0,r(8889).A)("cpu",[["path",{d:"M12 20v2",key:"1lh1kg"}],["path",{d:"M12 2v2",key:"tus03m"}],["path",{d:"M17 20v2",key:"1rnc9c"}],["path",{d:"M17 2v2",key:"11trls"}],["path",{d:"M2 12h2",key:"1t8f8n"}],["path",{d:"M2 17h2",key:"7oei6x"}],["path",{d:"M2 7h2",key:"asdhe0"}],["path",{d:"M20 12h2",key:"1q8mjw"}],["path",{d:"M20 17h2",key:"1fpfkl"}],["path",{d:"M20 7h2",key:"1o8tra"}],["path",{d:"M7 20v2",key:"4gnj0m"}],["path",{d:"M7 2v2",key:"1i4yhu"}],["rect",{x:"4",y:"4",width:"16",height:"16",rx:"2",key:"1vbyd7"}],["rect",{x:"8",y:"8",width:"8",height:"8",rx:"1",key:"z9xiuo"}]])},5770:(e,t,r)=>{"use strict";r.d(t,{A:()=>a});let a=(0,r(8889).A)("award",[["path",{d:"m15.477 12.89 1.515 8.526a.5.5 0 0 1-.81.47l-3.58-2.687a1 1 0 0 0-1.197 0l-3.586 2.686a.5.5 0 0 1-.81-.469l1.514-8.526",key:"1yiouv"}],["circle",{cx:"12",cy:"8",r:"6",key:"1vp47v"}]])},6734:(e,t,r)=>{"use strict";r.d(t,{A:()=>a});let a=(0,r(8889).A)("trending-up",[["path",{d:"M16 7h6v6",key:"box55l"}],["path",{d:"m22 7-8.5 8.5-5-5L2 17",key:"1t1m79"}]])},6822:(e,t,r)=>{Promise.resolve().then(r.bind(r,8942)),Promise.resolve().then(r.t.bind(r,1828,23))},7469:(e,t,r)=>{"use strict";r.d(t,{A:()=>a});let a=(0,r(8889).A)("refresh-cw",[["path",{d:"M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8",key:"v9h5vc"}],["path",{d:"M21 3v5h-5",key:"1q7to0"}],["path",{d:"M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16",key:"3uifl3"}],["path",{d:"M8 16H3v5",key:"1cv678"}]])},7849:(e,t,r)=>{"use strict";Object.defineProperty(t,"__esModule",{value:!0}),Object.defineProperty(t,"useMergedRef",{enumerable:!0,get:function(){return s}});let a=r(7620);function s(e,t){let r=(0,a.useRef)(null),s=(0,a.useRef)(null);return(0,a.useCallback)(a=>{if(null===a){let e=r.current;e&&(r.current=null,e());let t=s.current;t&&(s.current=null,t())}else e&&(r.current=n(e,a)),t&&(s.current=n(t,a))},[e,t])}function n(e,t){if("function"!=typeof e)return e.current=t,()=>{e.current=null};{let r=e(t);return"function"==typeof r?r:()=>e(null)}}("function"==typeof t.default||"object"==typeof t.default&&null!==t.default)&&void 0===t.default.__esModule&&(Object.defineProperty(t.default,"__esModule",{value:!0}),Object.assign(t.default,t),e.exports=t.default)},8864:(e,t,r)=>{"use strict";r.d(t,{A:()=>a});let a=(0,r(8889).A)("zap",[["path",{d:"M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z",key:"1xq2db"}]])},8889:(e,t,r)=>{"use strict";r.d(t,{A:()=>u});var a=r(7620);let s=e=>e.replace(/([a-z0-9])([A-Z])/g,"$1-$2").toLowerCase(),n=e=>e.replace(/^([A-Z])|[\s-_]+(\w)/g,(e,t,r)=>r?r.toUpperCase():t.toLowerCase()),i=e=>{let t=n(e);return t.charAt(0).toUpperCase()+t.slice(1)},d=function(){for(var e=arguments.length,t=Array(e),r=0;r<e;r++)t[r]=arguments[r];return t.filter((e,t,r)=>!!e&&""!==e.trim()&&r.indexOf(e)===t).join(" ").trim()},l=e=>{for(let t in e)if(t.startsWith("aria-")||"role"===t||"title"===t)return!0};var o={xmlns:"http://www.w3.org/2000/svg",width:24,height:24,viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",strokeWidth:2,strokeLinecap:"round",strokeLinejoin:"round"};let c=(0,a.forwardRef)((e,t)=>{let{color:r="currentColor",size:s=24,strokeWidth:n=2,absoluteStrokeWidth:i,className:c="",children:u,iconNode:h,...g}=e;return(0,a.createElement)("svg",{ref:t,...o,width:s,height:s,stroke:r,strokeWidth:i?24*Number(n)/Number(s):n,className:d("lucide",c),...!u&&!l(g)&&{"aria-hidden":"true"},...g},[...h.map(e=>{let[t,r]=e;return(0,a.createElement)(t,r)}),...Array.isArray(u)?u:[u]])}),u=(e,t)=>{let r=(0,a.forwardRef)((r,n)=>{let{className:l,...o}=r;return(0,a.createElement)(c,{ref:n,iconNode:t,className:d("lucide-".concat(s(i(e))),"lucide-".concat(e),l),...o})});return r.displayName=i(e),r}},8942:(e,t,r)=>{"use strict";r.d(t,{PlansTable:()=>q});var a=r(4568),s=r(7261),n=r.n(s),i=r(7620),d=r(2987),l=r(607);function o(){for(var e=arguments.length,t=Array(e),r=0;r<e;r++)t[r]=arguments[r];return(0,l.QP)((0,d.$)(t))}function c(e){let{className:t,...r}=e;return(0,a.jsx)("div",{"data-slot":"card",className:o("bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm",t),...r})}function u(e){let{className:t,...r}=e;return(0,a.jsx)("div",{"data-slot":"card-header",className:o("@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-1.5 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6",t),...r})}function h(e){let{className:t,...r}=e;return(0,a.jsx)("div",{"data-slot":"card-title",className:o("leading-none font-semibold",t),...r})}function g(e){let{className:t,...r}=e;return(0,a.jsx)("div",{"data-slot":"card-description",className:o("text-muted-foreground text-sm",t),...r})}function p(e){let{className:t,...r}=e;return(0,a.jsx)("div",{"data-slot":"card-content",className:o("px-6",t),...r})}function x(e){let{className:t,...r}=e;return(0,a.jsx)("div",{"data-slot":"card-footer",className:o("flex items-center px-6 [.border-t]:pt-6",t),...r})}var f=r(9649);let m=(0,r(615).F)("inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",{variants:{variant:{default:"bg-primary text-primary-foreground shadow-xs hover:bg-primary/90",destructive:"bg-destructive text-white shadow-xs hover:bg-destructive/90 focus-visible:ring-destructive/20 dark:focus-visible:ring-destructive/40 dark:bg-destructive/60",outline:"border bg-background shadow-xs hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50",secondary:"bg-secondary text-secondary-foreground shadow-xs hover:bg-secondary/80",ghost:"hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50",link:"text-primary underline-offset-4 hover:underline"},size:{default:"h-9 px-4 py-2 has-[>svg]:px-3",sm:"h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5",lg:"h-10 rounded-md px-6 has-[>svg]:px-4",icon:"size-9"}},defaultVariants:{variant:"default",size:"default"}});function y(e){let{className:t,variant:r,size:s,asChild:n=!1,...i}=e,d=n?f.DX:"button";return(0,a.jsx)(d,{"data-slot":"button",className:o(m({variant:r,size:s,className:t})),...i})}var v=r(8864),b=r(3385),k=r(9733),w=r(5321),A=r(3908),j=r(5191),M=r(3185),N=r(5770),P=r(2055),R=r(3643),S=r(6734),_=r(7469),z=r(2942),C=r(2935);let L=(0,C.createServerReference)("403012b3aef069234d9967b89945a9a85a502b941b",C.callServer,void 0,C.findSourceMapURL,"setReferralCodeCookie"),D=(0,C.createServerReference)("001a090ab527fb1537565fa90fc8a61100dd01e26a",C.callServer,void 0,C.findSourceMapURL,"getReferralCodeFromCookie");function E(){let[e,t]=(0,i.useState)(null),[r,s]=(0,i.useState)(!0),n=(0,z.useSearchParams)();return((0,i.useEffect)(()=>{!async function(){try{let e=n.get("ref");if(e)await L(e),t(e);else{let e=await D();t(e||null)}}catch(e){console.error("Error handling referral code:",e)}finally{s(!1)}}()},[n]),r||!e)?null:(0,a.jsx)("div",{className:"mb-8 p-4 bg-green-50 dark:bg-green-950/50 rounded-lg border border-green-200 dark:border-green-800",children:(0,a.jsxs)("p",{className:"text-green-800 dark:text-green-200 font-medium",children:["\uD83C\uDF89 ",(0,a.jsx)("strong",{children:"Congrats!"})," You have a referral code (",e,") and will receive ",(0,a.jsx)("strong",{children:"75 extra AI credits"})," one-time for becoming a Denjin Pro member!"]})})}let F=[{id:"free",name:"Denjin Free",cost:"Free",description:"Perfect for getting started and building apps.",features:[{text:"Local, open-source AI App Builder",icon:v.A},{text:"Downloadable for macOS & Windows",icon:b.A},{text:"No sign-up required",icon:k.A},{text:"Bring your own API key",icon:w.A},{text:"Community support",icon:A.A}],ctaText:"Get Started",link:"https://www.dyad.sh/docs/getting-started/quickstart"},{id:"pro",name:"Denjin Pro",cost:"$30",description:"Unlock powerful AI modes and get direct support.",features:[{text:"Everything in Denjin Free plus...",icon:j.A},{text:"Exclusive AI Pro modes",icon:M.A},{text:"300 AI credits/month",icon:N.A},{text:"Direct support & influence product roadmap",icon:P.A},{text:"Full Denjin Academy access",icon:R.A}],highlight:"RECOMMENDED",ctaText:"Subscribe to Pro",link:"https://academy.dyad.sh/redirect-to-checkout",isRecommended:!0},{id:"max",name:"Denjin Max",cost:"$79",description:"For building large, complex apps.",features:[{text:"Everything in Denjin Pro plus...",icon:j.A},{text:"900 AI credits/month (3x more, 12% savings compared to Pro)",icon:S.A},{text:"Reload credits at any time (same price)",icon:_.A}],ctaText:"Available as upgrade"}],O=e=>{let{plan:t,showLearnMore:r}=e,s=e=>{let{icon:t}=e,r=t||j.A;return(0,a.jsx)(r,{className:"h-5 w-5 text-indigo-600 dark:text-indigo-400 mr-3 flex-shrink-0"})};return(0,a.jsxs)(c,{className:"flex flex-col w-full max-w-md bg-white dark:bg-gray-900 transition-all duration-300 ease-in-out rounded-xl overflow-hidden relative\n                     ".concat(t.isRecommended?"border-indigo-500 dark:border-indigo-400 border-2 shadow-2xl transform lg:scale-105 z-10 pb-0":"border-slate-200 dark:border-gray-700 shadow-lg hover:shadow-xl dark:hover:shadow-2xl"),children:[t.highlight&&(0,a.jsx)("div",{className:"w-full bg-indigo-600 dark:bg-indigo-500 text-white text-xs font-semibold tracking-wider uppercase py-2 px-4 text-center",style:{marginTop:-24},children:t.highlight}),(0,a.jsxs)(u,{className:"px-8 ".concat(t.highlight?"pt-2":"pt-8"),children:[(0,a.jsx)(h,{className:"text-2xl font-semibold text-slate-800 dark:text-gray-100 text-center",children:t.name}),(0,a.jsxs)("div",{className:"text-center my-4",children:[(0,a.jsx)("span",{className:"text-3xl font-bold text-slate-900 dark:text-white",children:t.cost}),"free"!==t.id&&(0,a.jsx)("span",{className:"text-sm font-medium text-slate-500 dark:text-gray-400",children:"/month"})]}),(0,a.jsx)(g,{className:"text-sm text-slate-600 dark:text-gray-300 text-center min-h-[40px] leading-relaxed",children:t.description})]}),(0,a.jsx)(p,{className:"flex-grow px-8",children:(0,a.jsx)("ul",{className:"space-y-2.5",children:t.features.map((e,t)=>(0,a.jsxs)("li",{className:"flex items-start text-sm text-slate-700 dark:text-gray-300",children:[(0,a.jsx)(s,{icon:e.icon}),(0,a.jsx)("span",{className:"leading-snug",children:e.text})]},t))})}),(0,a.jsxs)(x,{className:"mt-auto pb-4 px-8 pt-2 flex flex-col items-center",children:[r&&(0,a.jsx)(y,{size:"lg",disabled:!t.link,className:"mb-3 w-full py-3 rounded-lg font-semibold text-base cursor-pointer\n          ".concat(t.link?"cursor-pointer":"cursor-not-allowed","\n                    ","bg-slate-200 hover:bg-slate-300 dark:bg-gray-700 dark:hover:bg-gray-600 text-slate-800 dark:text-gray-200"),asChild:!0,children:(0,a.jsx)(n(),{href:"/pro",children:"Learn more"})}),(0,a.jsx)(y,{size:"lg",disabled:!t.link,className:"w-full py-3 rounded-lg font-semibold text-base cursor-pointer\n            ".concat(t.link?"cursor-pointer":"cursor-not-allowed","\n                      ").concat(t.isRecommended?"bg-indigo-600 hover:bg-indigo-700 dark:bg-indigo-500 dark:hover:bg-indigo-600 text-white shadow-md hover:shadow-lg":"bg-slate-200 hover:bg-slate-300 dark:bg-gray-700 dark:hover:bg-gray-600 text-slate-800 dark:text-gray-200"),asChild:!0,children:(0,a.jsx)("a",{href:t.link,children:t.ctaText})}),"pro"===t.id&&(0,a.jsx)("p",{className:"mt-2 text-xs text-gray-500 dark:text-gray-400",children:"After signing up, you'll be redirected to checkout."})]})]})},q=e=>{let{showLearnMore:t=!1}=e;return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(i.Suspense,{fallback:null,children:(0,a.jsx)(E,{})}),(0,a.jsx)("div",{className:"grid grid-cols-1 gap-y-10 md:gap-x-0 md:gap-y-10 lg:grid-cols-3 lg:gap-x-0 lg:gap-y-0 items-stretch justify-center md:-space-x-px",children:F.map(e=>(0,a.jsx)("div",{className:"flex justify-center px-2 lg:px-0 ".concat(e.isRecommended?"lg:z-10":"lg:z-0"),children:(0,a.jsx)(O,{plan:e,showLearnMore:"pro"===e.id&&t})},e.id))})]})}},9733:(e,t,r)=>{"use strict";r.d(t,{A:()=>a});let a=(0,r(8889).A)("key-round",[["path",{d:"M2.586 17.414A2 2 0 0 0 2 18.828V21a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h1a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h.172a2 2 0 0 0 1.414-.586l.814-.814a6.5 6.5 0 1 0-4-4z",key:"1s6t7t"}],["circle",{cx:"16.5",cy:"7.5",r:".5",fill:"currentColor",key:"w0ekpg"}]])}},e=>{var t=t=>e(e.s=t);e.O(0,[7330,6701,7261,587,8315,7358],()=>t(6822)),_N_E=e.O()}]);
+(self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
+  [3894],
+  {
+    1828: (e) => {
+      e.exports = {
+        style: { fontFamily: "'Geist', 'Geist Fallback'", fontStyle: "normal" },
+        className: "__className_5cfdac",
+      };
+    },
+    2055: (e, t, r) => {
+      "use strict";
+      r.d(t, { A: () => a });
+      let a = (0, r(8889).A)("users", [
+        [
+          "path",
+          { d: "M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2", key: "1yyitq" },
+        ],
+        ["path", { d: "M16 3.128a4 4 0 0 1 0 7.744", key: "16gr8j" }],
+        ["path", { d: "M22 21v-2a4 4 0 0 0-3-3.87", key: "kshegd" }],
+        ["circle", { cx: "9", cy: "7", r: "4", key: "nufk8" }],
+      ]);
+    },
+    2935: (e, t, r) => {
+      "use strict";
+      Object.defineProperty(t, "__esModule", { value: !0 }),
+        !(function (e, t) {
+          for (var r in t)
+            Object.defineProperty(e, r, { enumerable: !0, get: t[r] });
+        })(t, {
+          callServer: function () {
+            return a.callServer;
+          },
+          createServerReference: function () {
+            return n;
+          },
+          findSourceMapURL: function () {
+            return s.findSourceMapURL;
+          },
+        });
+      let a = r(5411),
+        s = r(5176),
+        n = r(496).createServerReference;
+    },
+    2942: (e, t, r) => {
+      "use strict";
+      var a = r(2418);
+      r.o(a, "useParams") &&
+        r.d(t, {
+          useParams: function () {
+            return a.useParams;
+          },
+        }),
+        r.o(a, "usePathname") &&
+          r.d(t, {
+            usePathname: function () {
+              return a.usePathname;
+            },
+          }),
+        r.o(a, "useRouter") &&
+          r.d(t, {
+            useRouter: function () {
+              return a.useRouter;
+            },
+          }),
+        r.o(a, "useSearchParams") &&
+          r.d(t, {
+            useSearchParams: function () {
+              return a.useSearchParams;
+            },
+          });
+    },
+    3185: (e, t, r) => {
+      "use strict";
+      r.d(t, { A: () => a });
+      let a = (0, r(8889).A)("star", [
+        [
+          "path",
+          {
+            d: "M11.525 2.295a.53.53 0 0 1 .95 0l2.31 4.679a2.123 2.123 0 0 0 1.595 1.16l5.166.756a.53.53 0 0 1 .294.904l-3.736 3.638a2.123 2.123 0 0 0-.611 1.878l.882 5.14a.53.53 0 0 1-.771.56l-4.618-2.428a2.122 2.122 0 0 0-1.973 0L6.396 21.01a.53.53 0 0 1-.77-.56l.881-5.139a2.122 2.122 0 0 0-.611-1.879L2.16 9.795a.53.53 0 0 1 .294-.906l5.165-.755a2.122 2.122 0 0 0 1.597-1.16z",
+            key: "r04s7s",
+          },
+        ],
+      ]);
+    },
+    3385: (e, t, r) => {
+      "use strict";
+      r.d(t, { A: () => a });
+      let a = (0, r(8889).A)("download", [
+        ["path", { d: "M12 15V3", key: "m9g1x1" }],
+        [
+          "path",
+          { d: "M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4", key: "ih7n3h" },
+        ],
+        ["path", { d: "m7 10 5 5 5-5", key: "brsn70" }],
+      ]);
+    },
+    3643: (e, t, r) => {
+      "use strict";
+      r.d(t, { A: () => a });
+      let a = (0, r(8889).A)("book-open", [
+        ["path", { d: "M12 7v14", key: "1akyts" }],
+        [
+          "path",
+          {
+            d: "M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z",
+            key: "ruj8y",
+          },
+        ],
+      ]);
+    },
+    3908: (e, t, r) => {
+      "use strict";
+      r.d(t, { A: () => a });
+      let a = (0, r(8889).A)("message-square", [
+        [
+          "path",
+          {
+            d: "M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z",
+            key: "1lielz",
+          },
+        ],
+      ]);
+    },
+    5191: (e, t, r) => {
+      "use strict";
+      r.d(t, { A: () => a });
+      let a = (0, r(8889).A)("circle-check-big", [
+        ["path", { d: "M21.801 10A10 10 0 1 1 17 3.335", key: "yps3ct" }],
+        ["path", { d: "m9 11 3 3L22 4", key: "1pflzl" }],
+      ]);
+    },
+    5321: (e, t, r) => {
+      "use strict";
+      r.d(t, { A: () => a });
+      let a = (0, r(8889).A)("cpu", [
+        ["path", { d: "M12 20v2", key: "1lh1kg" }],
+        ["path", { d: "M12 2v2", key: "tus03m" }],
+        ["path", { d: "M17 20v2", key: "1rnc9c" }],
+        ["path", { d: "M17 2v2", key: "11trls" }],
+        ["path", { d: "M2 12h2", key: "1t8f8n" }],
+        ["path", { d: "M2 17h2", key: "7oei6x" }],
+        ["path", { d: "M2 7h2", key: "asdhe0" }],
+        ["path", { d: "M20 12h2", key: "1q8mjw" }],
+        ["path", { d: "M20 17h2", key: "1fpfkl" }],
+        ["path", { d: "M20 7h2", key: "1o8tra" }],
+        ["path", { d: "M7 20v2", key: "4gnj0m" }],
+        ["path", { d: "M7 2v2", key: "1i4yhu" }],
+        [
+          "rect",
+          { x: "4", y: "4", width: "16", height: "16", rx: "2", key: "1vbyd7" },
+        ],
+        [
+          "rect",
+          { x: "8", y: "8", width: "8", height: "8", rx: "1", key: "z9xiuo" },
+        ],
+      ]);
+    },
+    5770: (e, t, r) => {
+      "use strict";
+      r.d(t, { A: () => a });
+      let a = (0, r(8889).A)("award", [
+        [
+          "path",
+          {
+            d: "m15.477 12.89 1.515 8.526a.5.5 0 0 1-.81.47l-3.58-2.687a1 1 0 0 0-1.197 0l-3.586 2.686a.5.5 0 0 1-.81-.469l1.514-8.526",
+            key: "1yiouv",
+          },
+        ],
+        ["circle", { cx: "12", cy: "8", r: "6", key: "1vp47v" }],
+      ]);
+    },
+    6734: (e, t, r) => {
+      "use strict";
+      r.d(t, { A: () => a });
+      let a = (0, r(8889).A)("trending-up", [
+        ["path", { d: "M16 7h6v6", key: "box55l" }],
+        ["path", { d: "m22 7-8.5 8.5-5-5L2 17", key: "1t1m79" }],
+      ]);
+    },
+    6822: (e, t, r) => {
+      Promise.resolve().then(r.bind(r, 8942)),
+        Promise.resolve().then(r.t.bind(r, 1828, 23));
+    },
+    7469: (e, t, r) => {
+      "use strict";
+      r.d(t, { A: () => a });
+      let a = (0, r(8889).A)("refresh-cw", [
+        [
+          "path",
+          {
+            d: "M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8",
+            key: "v9h5vc",
+          },
+        ],
+        ["path", { d: "M21 3v5h-5", key: "1q7to0" }],
+        [
+          "path",
+          {
+            d: "M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16",
+            key: "3uifl3",
+          },
+        ],
+        ["path", { d: "M8 16H3v5", key: "1cv678" }],
+      ]);
+    },
+    7849: (e, t, r) => {
+      "use strict";
+      Object.defineProperty(t, "__esModule", { value: !0 }),
+        Object.defineProperty(t, "useMergedRef", {
+          enumerable: !0,
+          get: function () {
+            return s;
+          },
+        });
+      let a = r(7620);
+      function s(e, t) {
+        let r = (0, a.useRef)(null),
+          s = (0, a.useRef)(null);
+        return (0, a.useCallback)(
+          (a) => {
+            if (null === a) {
+              let e = r.current;
+              e && ((r.current = null), e());
+              let t = s.current;
+              t && ((s.current = null), t());
+            } else e && (r.current = n(e, a)), t && (s.current = n(t, a));
+          },
+          [e, t]
+        );
+      }
+      function n(e, t) {
+        if ("function" != typeof e)
+          return (
+            (e.current = t),
+            () => {
+              e.current = null;
+            }
+          );
+        {
+          let r = e(t);
+          return "function" == typeof r ? r : () => e(null);
+        }
+      }
+      ("function" == typeof t.default ||
+        ("object" == typeof t.default && null !== t.default)) &&
+        void 0 === t.default.__esModule &&
+        (Object.defineProperty(t.default, "__esModule", { value: !0 }),
+        Object.assign(t.default, t),
+        (e.exports = t.default));
+    },
+    8864: (e, t, r) => {
+      "use strict";
+      r.d(t, { A: () => a });
+      let a = (0, r(8889).A)("zap", [
+        [
+          "path",
+          {
+            d: "M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z",
+            key: "1xq2db",
+          },
+        ],
+      ]);
+    },
+    8889: (e, t, r) => {
+      "use strict";
+      r.d(t, { A: () => u });
+      var a = r(7620);
+      let s = (e) => e.replace(/([a-z0-9])([A-Z])/g, "$1-$2").toLowerCase(),
+        n = (e) =>
+          e.replace(/^([A-Z])|[\s-_]+(\w)/g, (e, t, r) =>
+            r ? r.toUpperCase() : t.toLowerCase()
+          ),
+        i = (e) => {
+          let t = n(e);
+          return t.charAt(0).toUpperCase() + t.slice(1);
+        },
+        d = function () {
+          for (var e = arguments.length, t = Array(e), r = 0; r < e; r++)
+            t[r] = arguments[r];
+          return t
+            .filter((e, t, r) => !!e && "" !== e.trim() && r.indexOf(e) === t)
+            .join(" ")
+            .trim();
+        },
+        l = (e) => {
+          for (let t in e)
+            if (t.startsWith("aria-") || "role" === t || "title" === t)
+              return !0;
+        };
+      var o = {
+        xmlns: "http://www.w3.org/2000/svg",
+        width: 24,
+        height: 24,
+        viewBox: "0 0 24 24",
+        fill: "none",
+        stroke: "currentColor",
+        strokeWidth: 2,
+        strokeLinecap: "round",
+        strokeLinejoin: "round",
+      };
+      let c = (0, a.forwardRef)((e, t) => {
+          let {
+            color: r = "currentColor",
+            size: s = 24,
+            strokeWidth: n = 2,
+            absoluteStrokeWidth: i,
+            className: c = "",
+            children: u,
+            iconNode: h,
+            ...g
+          } = e;
+          return (0, a.createElement)(
+            "svg",
+            {
+              ref: t,
+              ...o,
+              width: s,
+              height: s,
+              stroke: r,
+              strokeWidth: i ? (24 * Number(n)) / Number(s) : n,
+              className: d("lucide", c),
+              ...(!u && !l(g) && { "aria-hidden": "true" }),
+              ...g,
+            },
+            [
+              ...h.map((e) => {
+                let [t, r] = e;
+                return (0, a.createElement)(t, r);
+              }),
+              ...(Array.isArray(u) ? u : [u]),
+            ]
+          );
+        }),
+        u = (e, t) => {
+          let r = (0, a.forwardRef)((r, n) => {
+            let { className: l, ...o } = r;
+            return (0, a.createElement)(c, {
+              ref: n,
+              iconNode: t,
+              className: d("lucide-".concat(s(i(e))), "lucide-".concat(e), l),
+              ...o,
+            });
+          });
+          return (r.displayName = i(e)), r;
+        };
+    },
+    8942: (e, t, r) => {
+      "use strict";
+      r.d(t, { PlansTable: () => q });
+      var a = r(4568),
+        s = r(7261),
+        n = r.n(s),
+        i = r(7620),
+        d = r(2987),
+        l = r(607);
+      function o() {
+        for (var e = arguments.length, t = Array(e), r = 0; r < e; r++)
+          t[r] = arguments[r];
+        return (0, l.QP)((0, d.$)(t));
+      }
+      function c(e) {
+        let { className: t, ...r } = e;
+        return (0, a.jsx)("div", {
+          "data-slot": "card",
+          className: o(
+            "bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm",
+            t
+          ),
+          ...r,
+        });
+      }
+      function u(e) {
+        let { className: t, ...r } = e;
+        return (0, a.jsx)("div", {
+          "data-slot": "card-header",
+          className: o(
+            "@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-1.5 px-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6",
+            t
+          ),
+          ...r,
+        });
+      }
+      function h(e) {
+        let { className: t, ...r } = e;
+        return (0, a.jsx)("div", {
+          "data-slot": "card-title",
+          className: o("leading-none font-semibold", t),
+          ...r,
+        });
+      }
+      function g(e) {
+        let { className: t, ...r } = e;
+        return (0, a.jsx)("div", {
+          "data-slot": "card-description",
+          className: o("text-muted-foreground text-sm", t),
+          ...r,
+        });
+      }
+      function p(e) {
+        let { className: t, ...r } = e;
+        return (0, a.jsx)("div", {
+          "data-slot": "card-content",
+          className: o("px-6", t),
+          ...r,
+        });
+      }
+      function x(e) {
+        let { className: t, ...r } = e;
+        return (0, a.jsx)("div", {
+          "data-slot": "card-footer",
+          className: o("flex items-center px-6 [.border-t]:pt-6", t),
+          ...r,
+        });
+      }
+      var f = r(9649);
+      let m = (0, r(615).F)(
+        "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive",
+        {
+          variants: {
+            variant: {
+              default:
+                "bg-primary text-primary-foreground shadow-xs hover:bg-primary/90",
+              destructive:
+                "bg-destructive text-white shadow-xs hover:bg-destructive/90 focus-visible:ring-destructive/20 dark:focus-visible:ring-destructive/40 dark:bg-destructive/60",
+              outline:
+                "border bg-background shadow-xs hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50",
+              secondary:
+                "bg-secondary text-secondary-foreground shadow-xs hover:bg-secondary/80",
+              ghost:
+                "hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50",
+              link: "text-primary underline-offset-4 hover:underline",
+            },
+            size: {
+              default: "h-9 px-4 py-2 has-[>svg]:px-3",
+              sm: "h-8 rounded-md gap-1.5 px-3 has-[>svg]:px-2.5",
+              lg: "h-10 rounded-md px-6 has-[>svg]:px-4",
+              icon: "size-9",
+            },
+          },
+          defaultVariants: { variant: "default", size: "default" },
+        }
+      );
+      function y(e) {
+        let { className: t, variant: r, size: s, asChild: n = !1, ...i } = e,
+          d = n ? f.DX : "button";
+        return (0, a.jsx)(d, {
+          "data-slot": "button",
+          className: o(m({ variant: r, size: s, className: t })),
+          ...i,
+        });
+      }
+      var v = r(8864),
+        b = r(3385),
+        k = r(9733),
+        w = r(5321),
+        A = r(3908),
+        j = r(5191),
+        M = r(3185),
+        N = r(5770),
+        P = r(2055),
+        R = r(3643),
+        S = r(6734),
+        _ = r(7469),
+        z = r(2942),
+        C = r(2935);
+      let L = (0, C.createServerReference)(
+          "403012b3aef069234d9967b89945a9a85a502b941b",
+          C.callServer,
+          void 0,
+          C.findSourceMapURL,
+          "setReferralCodeCookie"
+        ),
+        D = (0, C.createServerReference)(
+          "001a090ab527fb1537565fa90fc8a61100dd01e26a",
+          C.callServer,
+          void 0,
+          C.findSourceMapURL,
+          "getReferralCodeFromCookie"
+        );
+      function E() {
+        let [e, t] = (0, i.useState)(null),
+          [r, s] = (0, i.useState)(!0),
+          n = (0, z.useSearchParams)();
+        return ((0, i.useEffect)(() => {
+          !(async function () {
+            try {
+              let e = n.get("ref");
+              if (e) await L(e), t(e);
+              else {
+                let e = await D();
+                t(e || null);
+              }
+            } catch (e) {
+              console.error("Error handling referral code:", e);
+            } finally {
+              s(!1);
+            }
+          })();
+        }, [n]),
+        r || !e)
+          ? null
+          : (0, a.jsx)("div", {
+              className:
+                "mb-8 p-4 bg-green-50 dark:bg-green-950/50 rounded-lg border border-green-200 dark:border-green-800",
+              children: (0, a.jsxs)("p", {
+                className: "text-green-800 dark:text-green-200 font-medium",
+                children: [
+                  "\uD83C\uDF89 ",
+                  (0, a.jsx)("strong", { children: "Congrats!" }),
+                  " You have a referral code (",
+                  e,
+                  ") and will receive ",
+                  (0, a.jsx)("strong", { children: "75 extra AI credits" }),
+                  " one-time for becoming a Denjin Pro member!",
+                ],
+              }),
+            });
+      }
+      let F = [
+          {
+            id: "free",
+            name: "Denjin Free",
+            cost: "Free",
+            description: "Perfect for getting started and building apps.",
+            features: [
+              { text: "Local, open-source AI App Builder", icon: v.A },
+              { text: "Downloadable for macOS & Windows", icon: b.A },
+              { text: "No sign-up required", icon: k.A },
+              { text: "Bring your own API key", icon: w.A },
+              { text: "Community support", icon: A.A },
+            ],
+            ctaText: "Get Started",
+            link: "https://www.dyad.sh/docs/getting-started/quickstart",
+          },
+          {
+            id: "pro",
+            name: "Denjin Pro",
+            cost: "$30",
+            description: "Unlock powerful AI modes and get direct support.",
+            features: [
+              { text: "Everything in Denjin Free plus...", icon: j.A },
+              { text: "Exclusive AI Pro modes", icon: M.A },
+              { text: "300 AI credits/month", icon: N.A },
+              { text: "Direct support & influence product roadmap", icon: P.A },
+              { text: "Full Denjin Academy access", icon: R.A },
+            ],
+            highlight: "RECOMMENDED",
+            ctaText: "Subscribe to Pro",
+            link: "https://academy.dyad.sh/redirect-to-checkout",
+            isRecommended: !0,
+          },
+          {
+            id: "max",
+            name: "Denjin Max",
+            cost: "$79",
+            description: "For building large, complex apps.",
+            features: [
+              { text: "Everything in Denjin Pro plus...", icon: j.A },
+              {
+                text: "900 AI credits/month (3x more, 12% savings compared to Pro)",
+                icon: S.A,
+              },
+              { text: "Reload credits at any time (same price)", icon: _.A },
+            ],
+            ctaText: "Available as upgrade",
+          },
+        ],
+        O = (e) => {
+          let { plan: t, showLearnMore: r } = e,
+            s = (e) => {
+              let { icon: t } = e,
+                r = t || j.A;
+              return (0, a.jsx)(r, {
+                className:
+                  "h-5 w-5 text-indigo-600 dark:text-indigo-400 mr-3 flex-shrink-0",
+              });
+            };
+          return (0, a.jsxs)(c, {
+            className:
+              "flex flex-col w-full max-w-md bg-white dark:bg-gray-900 transition-all duration-300 ease-in-out rounded-xl overflow-hidden relative\n                     ".concat(
+                t.isRecommended
+                  ? "border-indigo-500 dark:border-indigo-400 border-2 shadow-2xl transform lg:scale-105 z-10 pb-0"
+                  : "border-slate-200 dark:border-gray-700 shadow-lg hover:shadow-xl dark:hover:shadow-2xl"
+              ),
+            children: [
+              t.highlight &&
+                (0, a.jsx)("div", {
+                  className:
+                    "w-full bg-indigo-600 dark:bg-indigo-500 text-white text-xs font-semibold tracking-wider uppercase py-2 px-4 text-center",
+                  style: { marginTop: -24 },
+                  children: t.highlight,
+                }),
+              (0, a.jsxs)(u, {
+                className: "px-8 ".concat(t.highlight ? "pt-2" : "pt-8"),
+                children: [
+                  (0, a.jsx)(h, {
+                    className:
+                      "text-2xl font-semibold text-slate-800 dark:text-gray-100 text-center",
+                    children: t.name,
+                  }),
+                  (0, a.jsxs)("div", {
+                    className: "text-center my-4",
+                    children: [
+                      (0, a.jsx)("span", {
+                        className:
+                          "text-3xl font-bold text-slate-900 dark:text-white",
+                        children: t.cost,
+                      }),
+                      "free" !== t.id &&
+                        (0, a.jsx)("span", {
+                          className:
+                            "text-sm font-medium text-slate-500 dark:text-gray-400",
+                          children: "/month",
+                        }),
+                    ],
+                  }),
+                  (0, a.jsx)(g, {
+                    className:
+                      "text-sm text-slate-600 dark:text-gray-300 text-center min-h-[40px] leading-relaxed",
+                    children: t.description,
+                  }),
+                ],
+              }),
+              (0, a.jsx)(p, {
+                className: "flex-grow px-8",
+                children: (0, a.jsx)("ul", {
+                  className: "space-y-2.5",
+                  children: t.features.map((e, t) =>
+                    (0, a.jsxs)(
+                      "li",
+                      {
+                        className:
+                          "flex items-start text-sm text-slate-700 dark:text-gray-300",
+                        children: [
+                          (0, a.jsx)(s, { icon: e.icon }),
+                          (0, a.jsx)("span", {
+                            className: "leading-snug",
+                            children: e.text,
+                          }),
+                        ],
+                      },
+                      t
+                    )
+                  ),
+                }),
+              }),
+              (0, a.jsxs)(x, {
+                className: "mt-auto pb-4 px-8 pt-2 flex flex-col items-center",
+                children: [
+                  r &&
+                    (0, a.jsx)(y, {
+                      size: "lg",
+                      disabled: !t.link,
+                      className:
+                        "mb-3 w-full py-3 rounded-lg font-semibold text-base cursor-pointer\n          ".concat(
+                          t.link ? "cursor-pointer" : "cursor-not-allowed",
+                          "\n                    ",
+                          "bg-slate-200 hover:bg-slate-300 dark:bg-gray-700 dark:hover:bg-gray-600 text-slate-800 dark:text-gray-200"
+                        ),
+                      asChild: !0,
+                      children: (0, a.jsx)(n(), {
+                        href: "/pro",
+                        children: "Learn more",
+                      }),
+                    }),
+                  (0, a.jsx)(y, {
+                    size: "lg",
+                    disabled: !t.link,
+                    className:
+                      "w-full py-3 rounded-lg font-semibold text-base cursor-pointer\n            "
+                        .concat(
+                          t.link ? "cursor-pointer" : "cursor-not-allowed",
+                          "\n                      "
+                        )
+                        .concat(
+                          t.isRecommended
+                            ? "bg-indigo-600 hover:bg-indigo-700 dark:bg-indigo-500 dark:hover:bg-indigo-600 text-white shadow-md hover:shadow-lg"
+                            : "bg-slate-200 hover:bg-slate-300 dark:bg-gray-700 dark:hover:bg-gray-600 text-slate-800 dark:text-gray-200"
+                        ),
+                    asChild: !0,
+                    children: (0, a.jsx)("a", {
+                      href: t.link,
+                      children: t.ctaText,
+                    }),
+                  }),
+                  "pro" === t.id &&
+                    (0, a.jsx)("p", {
+                      className:
+                        "mt-2 text-xs text-gray-500 dark:text-gray-400",
+                      children:
+                        "After signing up, you'll be redirected to checkout.",
+                    }),
+                ],
+              }),
+            ],
+          });
+        },
+        q = (e) => {
+          let { showLearnMore: t = !1 } = e;
+          return (0, a.jsxs)(a.Fragment, {
+            children: [
+              (0, a.jsx)(i.Suspense, {
+                fallback: null,
+                children: (0, a.jsx)(E, {}),
+              }),
+              (0, a.jsx)("div", {
+                className:
+                  "grid grid-cols-1 gap-y-10 md:gap-x-0 md:gap-y-10 lg:grid-cols-3 lg:gap-x-0 lg:gap-y-0 items-stretch justify-center md:-space-x-px",
+                children: F.map((e) =>
+                  (0, a.jsx)(
+                    "div",
+                    {
+                      className: "flex justify-center px-2 lg:px-0 ".concat(
+                        e.isRecommended ? "lg:z-10" : "lg:z-0"
+                      ),
+                      children: (0, a.jsx)(O, {
+                        plan: e,
+                        showLearnMore: "pro" === e.id && t,
+                      }),
+                    },
+                    e.id
+                  )
+                ),
+              }),
+            ],
+          });
+        };
+    },
+    9733: (e, t, r) => {
+      "use strict";
+      r.d(t, { A: () => a });
+      let a = (0, r(8889).A)("key-round", [
+        [
+          "path",
+          {
+            d: "M2.586 17.414A2 2 0 0 0 2 18.828V21a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h1a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h.172a2 2 0 0 0 1.414-.586l.814-.814a6.5 6.5 0 1 0-4-4z",
+            key: "1s6t7t",
+          },
+        ],
+        [
+          "circle",
+          {
+            cx: "16.5",
+            cy: "7.5",
+            r: ".5",
+            fill: "currentColor",
+            key: "w0ekpg",
+          },
+        ],
+      ]);
+    },
+  },
+  (e) => {
+    var t = (t) => e((e.s = t));
+    e.O(0, [7330, 6701, 7261, 587, 8315, 7358], () => t(6822)), (_N_E = e.O());
+  },
+]);
