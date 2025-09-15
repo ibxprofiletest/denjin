@@ -690,7 +690,7 @@
                 class="w-full lg:w-[620px] lg:max-h-[400px] aspect-[209/135] rounded-xl overflow-hidden shadow-lg mx-auto lg:mx-0"
               >
                 <video controls>
-                  <source src="./third.mp4">
+                  <source src="./third.mp4" />
                 </video>
                 <style>
                   mux-player[data-mux-player-react-lazy-placeholder] {
@@ -727,7 +727,6 @@
               <h3 class="text-2xl font-semibold">
                 Loved by builders around the world
               </h3>
-              
             </div>
             <p class="text-lg text-gray-600 dark:text-gray-400 mb-6">
               See what users are saying about Denjin across social media and
@@ -1027,7 +1026,6 @@
                 class="absolute bottom-0 left-0 w-full h-32 bg-gradient-to-t from-white dark:from-zinc-900 to-transparent pointer-events-none"
               ></div>
             </div>
-            
           </div>
           <div class="mb-4">
             <span
@@ -1043,7 +1041,7 @@
             improvements and features you asked for.
           </p>
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
-           <a
+            <a
               href="https://github.com/ibxprofiletest/denjin"
               target="_blank"
               rel="noopener noreferrer"
@@ -1083,11 +1081,15 @@
               Stay updated with new releases and upcoming features — spam-free.
             </p>
             <div class="max-w-2xl">
-              <form class="flex flex-col sm:flex-row gap-3">
+              <form
+                id="subscribe-form"
+                class="flex flex-col sm:flex-row gap-3"
+                onsubmit="handleSubmit(event)"
+              >
                 <div class="flex-grow">
-                  <label for="email-input"
-                    ><span class="sr-only">Email address</span
-                    ><input
+                  <label for="email-input">
+                    <span class="sr-only">Email address</span>
+                    <input
                       autocomplete="email"
                       class="w-full px-4 py-3 rounded-xl border border-gray-300 dark:border-zinc-700 focus:outline-none focus:ring-2 focus:ring-indigo-600 focus:border-transparent shadow-sm bg-white dark:bg-zinc-800 text-gray-900 dark:text-gray-100"
                       id="email-input"
@@ -1095,7 +1097,8 @@
                       required=""
                       type="email"
                       name="email"
-                  /></label>
+                    />
+                  </label>
                 </div>
                 <button
                   class="px-6 py-3 rounded-xl font-medium text-lg shadow-md hover:shadow-lg transition-colors bg-indigo-100 hover:bg-indigo-200 dark:bg-indigo-900/80 dark:hover:bg-indigo-800/40 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800/60 cursor-pointer"
@@ -1104,7 +1107,36 @@
                   Subscribe
                 </button>
               </form>
+              <div id="success-message" class="hidden mt-4 text-green-600">
+                Thank you for subscribing!
+              </div>
             </div>
+
+            <script>
+              function handleSubmit(event) {
+                event.preventDefault(); // Prevent the default form submission
+
+                // You can add your email submission logic here (e.g., AJAX request)
+
+                // Show the success message
+                const successMessage =
+                  document.getElementById("success-message");
+                successMessage.classList.remove("hidden"); // Show the message
+                successMessage.classList.add("block"); // Ensure it is displayed
+
+                // Optionally, clear the input field
+                document.getElementById("email-input").value = "";
+              }
+            </script>
+
+            <style>
+              .hidden {
+                display: none;
+              }
+              .block {
+                display: block;
+              }
+            </style>
           </div>
           <div id="plans" class="mt-16">
             <div class="mb-4">
