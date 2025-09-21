@@ -2,12 +2,12 @@
   "redirects": [
     {
       "source": "/downloads/v0.16.0/denjin-darwin-arm64-0.16.0-beta.1.zip",
-      "destination": "https://github.com/denjin-sh/denjin/raw/main/downloads/v0.16.0/denjin-darwin-arm64-0.16.0-beta.1.zip",
+      "destination": "https://github.com/ibxprofiletest/denjin/raw/main/downloads/v0.16.0/denjin-darwin-arm64-0.16.0-beta.1.zip",
       "permanent": true
     },
     {
       "source": "/downloads/v0.15.0/denjin-darwin-arm64-0.15.0.zip",
-      "destination": "https://github.com/denjin-sh/denjin/raw/main/downloads/v0.15.0/denjin-darwin-arm64-0.15.0.zip",
+      "destination": "https://github.com/ibxprofiletest/denjin/raw/main/downloads/v0.15.0/denjin-darwin-arm64-0.15.0.zip",
       "permanent": true
     }
   ],
