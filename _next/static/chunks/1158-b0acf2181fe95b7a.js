@@ -320,7 +320,7 @@
           {
             id: "pro",
             name: "Denjin Pro",
-            cost: "$30",
+            cost: "0.25 SOL",
             description: "Unlock powerful AI modes and get direct support.",
             features: [
               { text: "Everything in Denjin Free plus...", icon: N.A },
@@ -337,7 +337,7 @@
           {
             id: "max",
             name: "Denjin Max",
-            cost: "$79",
+            cost: "1 SOL",
             description: "For building large, complex apps.",
             features: [
               { text: "Everything in Denjin Pro plus...", icon: N.A },
